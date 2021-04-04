@@ -1,0 +1,13 @@
+body,html{
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+@media screen and (min-width: 1920px){
+    body,html{
+        font-size: 87.5%;
+    }
+}
